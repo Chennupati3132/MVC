@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>login</title>
+<title>Welcome to Student Registration</title>
 </head>
 <body>
 <h2>Hello World</h2>
